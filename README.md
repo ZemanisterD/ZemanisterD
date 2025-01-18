@@ -1,41 +1,65 @@
-# 👋 Hi, I’m @ZemanisterD
+# 👋 Hey there! I'm @ZemanisterD - Tech Enthusiast & Athlete 🚀
 
-## About Me
-Hello! I’m Zemanister D, a passionate technologist and a multi-faceted individual hailing from the beautiful city of Udaipur, India. With a blend of technical expertise and an impressive athletic background, I’ve cultivated a unique and dynamic journey.
+## 🎯 About Me
+Namaste! 🙏 I'm Zemanisteragues, a passionate technologist and sports enthusiast from the enchanting city of Udaipur, India 🏰. I blend cutting-edge tech expertise with athletic excellence to bring a unique perspective to everything I do! 
 
-## Professional Highlights
-- **Co-Founder**: I’m proud to be a co-founder of **Dwell**, a venture aimed at redefining innovation and technology.
-- **Full-Stack Developer**: With extensive experience in modern web and mobile development, I specialize in:
-  - **Frontend**: JavaScript, React, Next.js
-  - **Backend**: Go, Node.js, TypeScript
-  - **Mobile Development**: React Native
-- **Cloud and DevOps Enthusiast**:
-  - Kubernetes, Pulumi, Docker, AWS, Digital Ocean
-  - Monitoring tools: Grafana, Loki, Prometheus
-- **Database Expertise**:
-  - ElasticSearch, MongoDB, Redis, PostgreSQL, MySQL
-  - Storage Solutions: MinIO, S3 Buckets
-- **Background Workflow Systems**: Temporal, SLURMs
+## 💼 Professional Journey
+### 🌟 Current Role
+- 🎉 **Co-Founder at Dwell**
+  - Pioneering innovative solutions
+  - Building the future of technology
 
-## Athletic Achievements
-Beyond my technical skills, I’ve also excelled in sports, representing India on international platforms:
-- 🏅 **International Football Medalist**: Proudly represented India and secured an international medal in football.
-- 🏊‍♂️ **National Swimmer**: Ranked among the top 15 fastest swimmers in the under-19 category.
-- 🎉 Known for my vibrant personality and being a lively team player, I’ve been recognized as an “amazing jock.”
+### 🛠️ Technical Arsenal
+#### Full-Stack Development
+- 🎨 **Frontend Mastery**
+  - JavaScript | React ⚛️ | Next.js
+- 🔧 **Backend Prowess**
+  - Go 🔵 | Node.js 💚 | TypeScript 🔷
+- 📱 **Mobile Development**
+  - React Native
 
-## Past Experience
-- Worked at **Dizart**, where I honed my skills in delivering innovative tech solutions and building robust applications.
+#### ☁️ Cloud & DevOps
+- 🐳 Kubernetes & Docker
+- ⚡ Pulumi
+- 🌩️ AWS & Digital Ocean
+- 📊 Monitoring Stack:
+  - Grafana | Loki | Prometheus
 
-## Connect With Me
-Let’s collaborate and create something extraordinary together! Feel free to reach out for:
-- Tech collaborations
-- Open-source projects
-- Sports discussions
+#### 💾 Database Expertise
+- 🔍 ElasticSearch
+- 🍃 MongoDB
+- 🔴 Redis
+- 🐘 PostgreSQL
+- 🐬 MySQL
+- 📦 Storage: MinIO, S3 Buckets
 
-You can find me here:
-- [GitHub](https://github.com/ZemanisterD)
-- [LinkedIn](https://www.linkedin.com/in/vimanyu-sharma-97163a235) (Add your profile link)
+#### ⚙️ Workflow Systems
+- ⏱️ Temporal
+- 🔄 SLURMs
+
+## 🏆 Athletic Achievements
+Proud to represent India on international platforms! 🇮🇳
+- ⚽ **International Football**: Medal-winning performance for Team India
+- 🏊‍♂️ **Swimming Champion**: Top 15 Under-19 fastest swimmers nationally
+- 💫 Known as the "Amazing Jock" for bringing energy and team spirit!
+
+## 💼 Previous Experience
+- 🏢 **Dizart**
+  - Delivered innovative tech solutions
+  - Built scalable applications
+  - Collaborated with cross-functional teams
+
+## 🤝 Let's Connect!
+I'm always excited to:
+- 👨‍💻 Collaborate on tech projects
+- 🌟 Contribute to open-source
+- 🤼 Chat about sports and tech
+- 🌱 Share knowledge and experiences
+
+### 📫 Find Me Here
+- [🐱 GitHub](https://github.com/ZemanisterD)
+- [💼 LinkedIn](https://www.linkedin.com/in/vimanyu-sharma-97163a235)
 
 ---
-“Striving for excellence in technology and sports, and loving every step of the journey!”
 
+> 💫 *"Pushing boundaries in technology and sports, one commit and one sprint at a time!"* 🚀
