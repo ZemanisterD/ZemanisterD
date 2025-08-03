@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cofounder+%26+CTO+at+dwll.ai;Software+Developer+at+NVIDIA;Full+Stack+Developer;Former+International+Athlete)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cofounder+%26+CTO+at+dwll.ai;Software+Developer+at+NVIDIA;Former+International+Athlete)](https://git.io/typing-svg)
 
 </div>
 
@@ -80,9 +80,5 @@ I'm a **Cofounder & CTO** at [dwll.ai](https://dwll.ai) and **Software Developer
 ---
 
 <div align="center">
-  
 *"Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
-
 </div>
