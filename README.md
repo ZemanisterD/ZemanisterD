@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cofounder+%26+CTO+at+dwll.ai;Software+Developer+at+NVIDIA;Full+Stack+Developer;AI%2FML+Enthusiast;Former+International+Athlete)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cofounder+%26+CTO+at+dwll.ai;Software+Developer+at+NVIDIA;Full+Stack+Developer;Former+International+Athlete)](https://git.io/typing-svg)
 
 </div>
 
